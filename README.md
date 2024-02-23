@@ -16,7 +16,7 @@ Features include:
 ## Installation
 
 ```shell
-go get github.com/IBM/fluent-forward-go
+go get github.com/aanujj/fluent-forward-go
 ```
 
 ## Examples

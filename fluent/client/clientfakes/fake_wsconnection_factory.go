@@ -4,9 +4,9 @@ package clientfakes
 import (
 	"sync"
 
+	"github.com/aanujj/fluent-forward-go/fluent/client"
 	"github.com/aanujj/fluent-forward-go/fluent/client/ws"
 	"github.com/aanujj/fluent-forward-go/fluent/client/ws/ext"
-	"github.com/aanujj/fluent-forward-go/fluent/client"
 )
 
 type FakeWSConnectionFactory struct {
